@@ -1,0 +1,8 @@
+# Config Files
+config.json
+
+# Data Files
+
+# Environment Files
+__pycache__
+.venv
